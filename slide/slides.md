@@ -12,7 +12,7 @@ duration: 5min
 layout: cover
 mainTitle: SAKE LENS
 subTitle: 日本酒の用語を、写真から理解する
-image: https://media.connpass.com/thumbs/62/84/6284540944438de5b78b883088db4b93.png
+image: /img/hackson.png
 ---
 
 ---
