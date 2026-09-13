@@ -18,3 +18,13 @@ npm run build
 ```
 
 静的ファイルはdistへ出力します。スライド本文はslides.mdを編集してください。
+
+## PDF出力
+
+Windowsにインストール済みのGoogle Chromeを使い、PDFを生成します。
+
+```bash
+npm run export:pdf
+```
+
+出力先は`dist/sake-lens.pdf`です。動画はPDFでは静止画として出力されます。
